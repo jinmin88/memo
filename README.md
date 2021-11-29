@@ -15,6 +15,9 @@ https://fastapi.tiangolo.com/advanced/additional-responses/
 ### API-Key authroization
 https://github.com/tiangolo/fastapi/issues/142
 
+### Logging
+https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
+
 
 
 
