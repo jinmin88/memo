@@ -12,6 +12,9 @@ https://github.com/tiangolo/fastapi/issues/1276
 ### Additional Response
 https://fastapi.tiangolo.com/advanced/additional-responses/
 
+### API-Key authroization
+https://github.com/tiangolo/fastapi/issues/142
+
 
 
 
