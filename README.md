@@ -27,7 +27,9 @@ https://blog.csdn.net/weixin_36179862/article/details/110507491
 
 ### fastapi logging middleware ###
 https://github.com/jeffsiver/fastapi-route-logger/blob/e52b5344e19de3e31cd70aee277fc7bc2355bd9a/fastapi_route_logger_middleware/__init__.py#L47
-#### Logru ####
+#### Loguru ####
 https://github.com/Delgan/loguru
 #### unify-logging-for-a-gunicorn-uvicorn-app ####
 https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
+### loguru example ###
+https://www.readfog.com/a/1640196300205035520
