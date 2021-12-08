@@ -33,3 +33,5 @@ https://github.com/Delgan/loguru
 https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
 ### loguru example ###
 https://www.readfog.com/a/1640196300205035520
+### Multiple module logging ###
+https://stackoverflow.com/questions/52175730/python-question-on-logging-in-init-py
