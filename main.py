@@ -53,25 +53,23 @@ async def read_item(item_id: int, q: int):
 
 @app.on_event("startup")
 async def startup_event():
-
     logging.root.handlers = []
     logging.root.setLevel(logging.DEBUG)
     for name in logging.root.manager.loggerDict.keys():
-        print(name)
         logging.getLogger(name).handlers = []
         logging.getLogger(name).propagate = True
 
-    g_log = logging.getLogger(__name__)
-    uv_access_log = logging.getLogger("uvicorn.access")
-
+    curr_logger = logging.getLogger(__name__)
+    uvicorn_access_logger = logging.getLogger("uvicorn.access")
+    uvicorn_error_logger = logging.getLogger("uvicorn.error")
     handler = logging.StreamHandler()
     handler.setFormatter(
         logging.Formatter(
             "[%(asctime)s] %(levelname)s [%(name)s.%(funcName)s:%(lineno)d] %(message)s"
         )
     )
-    g_log.addHandler(handler)
-    g_log.setLevel(logging.DEBUG)
-    uv_access_log.addHandler(handler)
-    uv_access_log.setLevel(logging.DEBUG)
-    g_log.info("start")
+    logging.root.addHandler(handler)
+
+    curr_logger.info("i'm curr")
+    uvicorn_access_logger.info("i'm uvicorn")
+    uvicorn_error_logger.warning("error")
