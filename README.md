@@ -35,3 +35,11 @@ https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
 https://www.readfog.com/a/1640196300205035520
 ### Multiple module logging ###
 https://stackoverflow.com/questions/52175730/python-question-on-logging-in-init-py
+
+### docker copy file from container to host ###
+https://stackoverflow.com/questions/22049212/docker-copying-files-from-docker-container-to-host
+
+### wso2 api manager docker github ###
+https://github.com/wso2/docker-apim/tree/master/dockerfiles/ubuntu/apim
+
+
