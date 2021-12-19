@@ -42,4 +42,6 @@ https://stackoverflow.com/questions/22049212/docker-copying-files-from-docker-co
 ### wso2 api manager docker github ###
 https://github.com/wso2/docker-apim/tree/master/dockerfiles/ubuntu/apim
 
+### oauth 2 ###
+https://blog.yorkxin.org/posts/oauth2-1-introduction.html
 
