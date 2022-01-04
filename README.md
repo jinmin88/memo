@@ -45,3 +45,7 @@ https://github.com/wso2/docker-apim/tree/master/dockerfiles/ubuntu/apim
 ### oauth 2 ###
 https://blog.yorkxin.org/posts/oauth2-1-introduction.html
 
+
+### invoke java library from python ###
+https://github.com/jpype-project/jpype
+
