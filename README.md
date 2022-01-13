@@ -49,3 +49,6 @@ https://blog.yorkxin.org/posts/oauth2-1-introduction.html
 ### invoke java library from python ###
 https://github.com/jpype-project/jpype
 https://www.twblogs.net/a/5be2419c2b717720b51d24fc
+
+### wso2 api manager
+https://github.com/wso2/docker-apim/blob/master/docker-compose/apim-with-mi/dockerfiles/apim/Dockerfile
