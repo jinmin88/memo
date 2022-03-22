@@ -32,6 +32,9 @@ https://github.com/Delgan/loguru
 #### unify-logging-for-a-gunicorn-uvicorn-app ####
 https://pawamoy.github.io/posts/unify-logging-for-a-gunicorn-uvicorn-app/
 ### loguru example ###
+
+### sqlalchemy
+https://www.youtube.com/watch?v=nt5sSr1A_qw
 https://www.readfog.com/a/1640196300205035520
 ### Multiple module logging ###
 https://stackoverflow.com/questions/52175730/python-question-on-logging-in-init-py
