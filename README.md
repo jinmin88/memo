@@ -59,3 +59,10 @@ https://github.com/wso2/docker-apim/blob/master/docker-compose/apim-with-mi/dock
 ### Promethues
 https://github.com/udemy-course/telegraf-prometheus-grafana
 
+### course
+db theory: 
+
+### leetcode
+* 1598 https://leetcode.com/problems/crawler-log-folder/description/
+
+* 
