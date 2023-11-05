@@ -60,9 +60,11 @@ https://github.com/wso2/docker-apim/blob/master/docker-compose/apim-with-mi/dock
 https://github.com/udemy-course/telegraf-prometheus-grafana
 
 ### course
-db theory: 
+db theory: https://www.udemy.com/course/database-engines-crash-course/
+db mysql: https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+rabbomq: https://www.udemy.com/course/rabbitmq-in-practice/
+oop: https://www.udemy.com/course/object-oriented-programming-with-modern-python/
 
 ### leetcode
 * 1598 https://leetcode.com/problems/crawler-log-folder/description/
-
 * 
