@@ -70,7 +70,7 @@ oop: https://www.udemy.com/course/object-oriented-programming-with-modern-python
 
 
 ### sql
-``` postresql
+``` sql
 
 CREATE TABLE mac_record (
     id uuid NOT NULL,
