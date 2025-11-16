@@ -69,3 +69,11 @@ oop: https://www.udemy.com/course/object-oriented-programming-with-modern-python
 * 1598 https://leetcode.com/problems/crawler-log-folder/description/
 
 
+https://www.figma.com/make/pOGLjqmIO74bua8J9H21c0/Cabling-Tracer-System-Layout?node-id=0-1&t=z2LCVc05ehgbeDAh-1
+
+
+https://smoky-form-69412029.figma.site
+
+
+
+
